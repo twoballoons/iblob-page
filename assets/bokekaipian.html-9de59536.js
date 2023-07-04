@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d5714a12","path":"/blogs/20230629/bokekaipian.html","title":"博客开篇","lang":"en-US","frontmatter":{"title":"博客开篇","date":"2023/6/29"},"headers":[],"git":{"createdTime":1688020466000,"updatedTime":1688020466000,"contributors":[{"name":"xingenhi","email":"xingenhi@163.com","commits":1}]},"filePathRelative":"blogs/20230629/博客开篇.md"}');export{e as data};

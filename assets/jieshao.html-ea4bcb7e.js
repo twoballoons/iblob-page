@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a4bf884","path":"/docs/micro_service/jieshao.html","title":"首页","lang":"en-US","frontmatter":{"title":"首页","date":"2023/6/28"},"headers":[],"git":{"createdTime":1688020466000,"updatedTime":1688020466000,"contributors":[{"name":"xingenhi","email":"xingenhi@163.com","commits":1}]},"filePathRelative":"docs/micro_service/介绍.md"}');export{e as data};

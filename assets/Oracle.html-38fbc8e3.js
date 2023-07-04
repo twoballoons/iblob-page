@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8a4a4eb6","path":"/docs/db/Oracle.html","title":"Oracle","lang":"en-US","frontmatter":{"title":"Oracle","date":"2023/6/28"},"headers":[],"git":{"createdTime":1688020466000,"updatedTime":1688436100000,"contributors":[{"name":"xingenhi","email":"xingenhi@163.com","commits":2}]},"filePathRelative":"docs/db/Oracle.md"}');export{e as data};

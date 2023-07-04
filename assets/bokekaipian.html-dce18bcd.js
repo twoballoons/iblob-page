@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a}from"./app-f078eaf8.js";const c={},n=a("p",null,"博客开篇",-1),_=[n];function s(r,i){return o(),t("div",null,_)}const d=e(c,[["render",s],["__file","bokekaipian.html.vue"]]);export{d as default};
